@@ -16,7 +16,7 @@
 
 <h2> Projeto Finalizado ✅ </h2>
 
-<p> Link do Projeto: https://g4breela.github.io/projeto-veficador-de-idade/ </p>
+<p> Link do Projeto: https://g4breela.github.io/projeto-calculadora/ </p>
 
 <img alt= "imagem-do-projeto" height="500"
 src="https://user-images.githubusercontent.com/103966644/210674609-40f32989-92da-4f10-b7ce-03fecc88ad2e.png">
