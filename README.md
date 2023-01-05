@@ -4,7 +4,7 @@
 
 <h2> Exercício Proposto: 🕵️ </h2>
 <p>
-  Não é um exercício de um curso específico (que eu saiba), apenas fiquei curiosa no processo de criar uma calculadora. Vi que é bem complexo para um iniciante, não consegui fazer sozinha, acompnhei esse <a href="https://www.youtube.com/watch?v=42TShjXR0m0" target='_blank'>vídeo</a> 
+  Não é um exercício de um curso específico (que eu saiba), apenas fiquei curiosa no processo de criar uma calculadora. Vi que é bem complexo para um iniciante, não consegui fazer sozinha, acompanhei esse <a href="https://www.youtube.com/watch?v=42TShjXR0m0" target='_blank'>vídeo</a> 
 </p>
 
 <h2> Tecnologias Utilizadas: 👩‍💻 </h2>
